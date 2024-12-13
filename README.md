@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammad Murrar</h1>
-<h3 align="center">A 4ht year CS, student at BZU</h3>
+<h3 align="center">A Computer Science Graduate from BZU</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmurrar&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmurrar" /> </p>
 
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **Python / Flutter / JS**
+- 🌱 I’m currently enhancing my skills in **Python / JS / React Native**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **React Native and Python for Data science**
 
 - 📫 How to reach me **mo.murrar2002@gmail.com**
 
