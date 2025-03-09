@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmurrar&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmurrar" /> </p>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on **OptiVet**
 
 - 🌱 I’m currently enhancing my skills in **Python / JS / React Native**
 
